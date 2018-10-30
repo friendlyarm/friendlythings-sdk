@@ -1,4 +1,4 @@
-# friendlythings-sdk
+# FriendlyThings-SDK
 For android developer to access the hardware resources on the development board in their android apps, the library is based on Android NDK.
 
 ## How to use
