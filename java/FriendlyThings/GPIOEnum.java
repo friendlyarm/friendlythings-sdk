@@ -1,4 +1,4 @@
-package com.friendlyarm.AndroidSDK;
+package com.friendlyarm.FriendlyThings;
 
 /*
 GPIO signals have paths like /sys/class/gpio/gpio42/ (for GPIO #42)
@@ -33,11 +33,11 @@ and have the following read/write attributes:
  */
 
 public class GPIOEnum {
-	//Direction
-	public final static int IN = 1; 
-	public final static int OUT = 2; 
-	
-	//Value
-	public final static int LOW = 0;
-	public final static int HIGH = 1;
+    //Direction
+    public final static int IN = 1; 
+    public final static int OUT = 2; 
+    
+    //Value
+    public final static int LOW = 0;
+    public final static int HIGH = 1;
 }

@@ -1,4 +1,4 @@
-package com.friendlyarm.AndroidSDK;
+package com.friendlyarm.FriendlyThings;
 
 public class BoardType {
     /* getBoardType return value: */

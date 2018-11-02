@@ -1,4 +1,4 @@
-package com.friendlyarm.AndroidSDK;
+package com.friendlyarm.FriendlyThings;
 
 public class WatchDogEnum {
     /* include/uapi/linux/watchdog.h */
